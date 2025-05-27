@@ -1,0 +1,330 @@
+price,rating,discount,category,marketplace,sold_level
+22166.63,4.6,36,Perros,AliExpress,Medio
+21487.93,4.8,8,Perros,AliExpress,Medio
+13350.84,4.7,25,Peces,AliExpress,Bajo
+205729.64,4.8,31,Peces,AliExpress,Medio
+12505.43,4.8,64,Peces,AliExpress,Medio
+48311.51,4.9,59,Peces,AliExpress,Medio
+19800.02,4.6,63,Perros,AliExpress,Medio
+28333.99,4.9,60,Perros,AliExpress,Medio
+4195.98,4.8,64,Perros,AliExpress,Bajo
+70366.46,4.9,59,Peces,AliExpress,Bajo
+3899.29,4.7,30,Perros,AliExpress,Medio
+52973.92,5.0,59,Perros,AliExpress,Bajo
+10380.79,4.4,64,Gatos,AliExpress,Medio
+41978.91,4.7,59,Peces,AliExpress,Bajo
+49102.35,4.5,60,Perros,AliExpress,Bajo
+55257.91,4.1,60,Perros,AliExpress,Medio
+46234.09,4.3,61,Peces,AliExpress,Medio
+26947.52,4.0,58,Perros,AliExpress,Bajo
+7801.71,5.0,51,Gatos,AliExpress,Medio
+25872.96,4.8,62,Perros,AliExpress,Medio
+36944.68,4.8,61,Peces,AliExpress,Bajo
+71995.35,4.8,60,Perros,AliExpress,Bajo
+249998.87,4.0,58,Peces,AliExpress,Bajo
+8858.18,4.8,59,Perros,AliExpress,Medio
+42828.76,3.8,60,Jaulas para Mascotas,AliExpress,Medio
+26794.07,5.0,63,Perros,AliExpress,Medio
+62180.69,4.2,61,Gatos,AliExpress,Bajo
+9536.31,4.7,31,Perros,AliExpress,Bajo
+51828.98,4.3,58,Perros,AliExpress,Medio
+21542.96,4.8,8,Perros,AliExpress,Medio
+206214.1,4.8,31,Peces,AliExpress,Medio
+12539.52,4.8,64,Peces,AliExpress,Medio
+48429.06,4.9,59,Peces,AliExpress,Medio
+19851.11,4.6,63,Perros,AliExpress,Medio
+28404.97,4.9,60,Perros,AliExpress,Medio
+70535.41,4.9,59,Peces,AliExpress,Bajo
+53102.33,5.0,59,Perros,AliExpress,Bajo
+10409.92,4.4,64,Gatos,AliExpress,Medio
+42081.69,4.7,59,Peces,AliExpress,Bajo
+49221.74,4.5,60,Perros,AliExpress,Bajo
+55391.64,4.1,60,Perros,AliExpress,Medio
+46346.79,4.3,61,Peces,AliExpress,Medio
+27010.33,4.0,58,Perros,AliExpress,Bajo
+7824.83,5.0,51,Gatos,AliExpress,Medio
+25938.2,4.8,62,Perros,AliExpress,Medio
+37035.74,4.8,61,Peces,AliExpress,Bajo
+72168.1,4.8,60,Perros,AliExpress,Bajo
+250586.52,4.0,58,Peces,AliExpress,Bajo
+42933.53,3.8,60,Jaulas para Mascotas,AliExpress,Medio
+26856.53,5.0,63,Perros,AliExpress,Medio
+62330.56,4.2,61,Gatos,AliExpress,Bajo
+51954.71,4.3,58,Perros,AliExpress,Medio
+14579.97,4.5,47,Perros,AliExpress,Medio
+63479.6,4.7,57,Gatos,AliExpress,Medio
+19815.63,3.6,62,Perros,AliExpress,Bajo
+24678.19,5.0,60,Perros,AliExpress,Bajo
+35207.84,4.8,61,Perros,AliExpress,Medio
+13486.0,4.9,63,Perros,AliExpress,Medio
+17496.73,4.7,64,Perros,AliExpress,Medio
+35639.68,4.0,60,Aves,AliExpress,Bajo
+19537.59,4.6,64,Perros,AliExpress,Medio
+15402.63,5.0,63,Perros,AliExpress,Bajo
+30629.22,4.7,62,Perros,AliExpress,Bajo
+12462.61,4.3,64,Perros,AliExpress,Medio
+19030.25,4.9,55,Perros,AliExpress,Bajo
+13173.9,4.7,40,Perros,AliExpress,Medio
+49937.52,5.0,0,Gatos,AliExpress,Bajo
+10303.44,4.8,75,Perros,AliExpress,Medio
+8552.44,5.0,43,Perros,AliExpress,Bajo
+4195.98,5.0,50,Perros,AliExpress,Bajo
+121444.49,4.4,58,Gatos,AliExpress,Medio
+56775.88,4.8,60,Perros,AliExpress,Medio
+132109.73,4.2,0,Perros,AliExpress,Medio
+25299.32,5.0,64,Gatos,AliExpress,Bajo
+21732.25,5.0,8,Perros,AliExpress,Bajo
+12728.81,4.5,14,Perros,AliExpress,Bajo
+6145.63,4.9,49,Perros,AliExpress,Bajo
+15438.13,4.8,64,Peces,AliExpress,Medio
+26239.89,4.6,62,Gatos,AliExpress,Medio
+5548.77,4.6,45,Perros,AliExpress,Medio
+14148.54,4.7,65,Gatos,AliExpress,Alto
+47960.0,4.6,0,Gatos,Amazon,Medio
+119960.0,4.5,0,Perros,Amazon,Alto
+131960.0,4.3,0,Gatos,Amazon,Alto
+75960.0,4.6,0,Perros,Amazon,Alto
+87960.0,4.6,0,Gatos,Amazon,Alto
+195920.0,4.3,0,Gatos,Amazon,Alto
+79960.0,4.5,0,Gatos,Amazon,Alto
+99960.0,4.7,0,Perros,Amazon,Alto
+135960.0,4.7,0,Perros,Amazon,Alto
+39960.0,4.8,0,Perros,Amazon,Bajo
+119960.0,4.5,0,Perros,Amazon,Bajo
+139960.0,4.7,0,Perros,Amazon,Alto
+95960.0,4.5,0,Perros,Amazon,Alto
+79960.0,4.8,0,Gatos,Amazon,Medio
+119960.0,4.2,0,Correas para Mascotas,Amazon,Alto
+199960.0,4.5,0,Perros,Amazon,Alto
+99880.0,4.5,0,Gatos,Amazon,Bajo
+71960.0,4.5,0,Perros,Amazon,Alto
+147960.0,4.7,0,Perros,Amazon,Alto
+91960.0,4.5,0,Perros,Amazon,Alto
+143960.0,4.8,0,Perros,Amazon,Medio
+76720.0,4.3,0,Perros,Amazon,Alto
+159960.0,4.9,0,Perros,Amazon,Alto
+79960.0,4.6,0,Perros,Amazon,Alto
+99960.0,4.9,0,Perros,Amazon,Bajo
+199960.0,4.3,0,Gatos,Amazon,Medio
+79960.0,4.3,0,Gatos,Amazon,Alto
+100000.0,3.8,0,Perros,Amazon,Alto
+55960.0,4.8,0,Gatos,Amazon,Medio
+75920.0,4.1,0,Perros,Amazon,Alto
+79960.0,4.6,0,Perros,Amazon,Alto
+279960.0,4.5,0,Perros,Amazon,Alto
+23960.0,4.4,0,Perros,Amazon,Alto
+99880.0,4.3,0,Gatos,Amazon,Alto
+151960.0,4.9,0,Perros,Amazon,Medio
+23880.0,4.5,0,Gatos,Amazon,Medio
+219960.0,4.2,0,Perros,Amazon,Medio
+35960.0,4.2,0,Gatos,Amazon,Medio
+119960.0,4.4,0,Gatos,Amazon,Medio
+87960.0,4.7,0,Gatos,Amazon,Medio
+139960.0,4.3,0,Perros,Amazon,Alto
+119960.0,4.9,0,Perros,Amazon,Bajo
+159960.0,4.8,0,Perros,Amazon,Medio
+599960.0,4.4,0,Gatos,Amazon,Medio
+159960.0,3.9,0,Gatos,Amazon,Medio
+75200.0,4.5,0,Perros,Amazon,Medio
+71960.0,4.6,0,Perros,Amazon,Medio
+143960.0,4.6,0,Perros,Amazon,Medio
+83960.0,4.5,0,Gatos,Amazon,Medio
+79960.0,3.8,0,Perros,Amazon,Medio
+67960.0,4.4,0,Gatos,Amazon,Medio
+91960.0,4.5,0,Gatos,Amazon,Medio
+155960.0,4.5,0,Perros,Amazon,Medio
+189960.0,4.8,0,Correas para Mascotas,Amazon,Bajo
+143960.0,4.6,0,Perros,Amazon,Medio
+62200.0,3.8,0,Gatos,Amazon,Medio
+1079960.0,4.3,0,Gatos,Amazon,Medio
+207320.0,4.6,0,Correas para Mascotas,Amazon,Medio
+23960.0,4.4,0,Perros,Amazon,Medio
+279920.0,4.5,0,Gatos,Amazon,Medio
+63960.0,4.8,0,Perros,Amazon,Bajo
+119400.0,4.5,0,Perros,Amazon,Medio
+139960.0,4.9,0,Gatos,Amazon,Medio
+32680.0,4.5,0,Otros,Amazon,Medio
+87960.0,4.5,0,Gatos,Amazon,Medio
+86920.0,4.7,0,Gatos,Amazon,Medio
+51960.0,4.8,0,Perros,Amazon,Bajo
+227960.0,4.6,0,Gatos,Amazon,Medio
+79920.0,4.6,0,Gatos,Amazon,Medio
+91960.0,5.0,0,Gatos,Amazon,Bajo
+72600.0,4.6,0,Perros,Amazon,Medio
+39960.0,4.7,0,Perros,Amazon,Medio
+35960.0,4.6,0,Gatos,Amazon,Medio
+103960.0,4.6,0,Perros,Amazon,Medio
+127960.0,4.4,0,Perros,Amazon,Medio
+143960.0,4.2,0,Perros,Amazon,Medio
+227960.0,4.4,0,Gatos,Amazon,Medio
+179960.0,4.2,0,Perros,Amazon,Medio
+79880.0,3.9,0,Gatos,Amazon,Medio
+719960.0,4.2,0,Gatos,Amazon,Medio
+119960.0,4.3,0,Gatos,Amazon,Medio
+63960.0,3.0,0,Gatos,Amazon,Medio
+63960.0,4.8,0,Perros,Amazon,Medio
+79960.0,4.4,0,Perros,Amazon,Medio
+63960.0,4.2,0,Perros,Amazon,Medio
+60600.0,4.3,0,Perros,Amazon,Medio
+79920.0,4.5,0,Gatos,Amazon,Medio
+39960.0,4.6,0,Aves,Amazon,Medio
+199960.0,4.4,0,Perros,Amazon,Medio
+31880.0,4.8,0,Gatos,Amazon,Medio
+55960.0,4.7,0,Gatos,Amazon,Medio
+44160.0,4.6,0,Perros,Amazon,Medio
+99960.0,3.7,0,Perros,Amazon,Alto
+43160.0,4.6,0,Perros,Amazon,Medio
+143960.0,4.5,0,Perros,Amazon,Medio
+35960.0,4.2,0,Gatos,Amazon,Medio
+119960.0,4.4,0,Gatos,Amazon,Medio
+95960.0,4.2,0,Perros,Amazon,Alto
+22360.0,4.4,0,Reptiles y Anfibios,Amazon,Medio
+99960.0,4.5,0,Perros,Amazon,Medio
+87960.0,4.7,0,Gatos,Amazon,Medio
+31960.0,4.4,0,Gatos,Amazon,Medio
+59960.0,4.2,0,Perros,Amazon,Medio
+139960.0,4.3,0,Perros,Amazon,Alto
+79960.0,4.1,0,Perros,Amazon,Medio
+119960.0,4.6,0,Gatos,Amazon,Medio
+119960.0,4.9,0,Perros,Amazon,Bajo
+39920.0,4.4,0,Gatos,Amazon,Medio
+159960.0,4.8,0,Perros,Amazon,Medio
+279960.0,4.3,0,Gatos,Amazon,Medio
+36360.0,4.3,0,Perros,Amazon,Alto
+71960.0,4.6,0,Perros,Amazon,Medio
+599960.0,4.4,0,Gatos,Amazon,Medio
+39960.0,4.1,0,Perros,Amazon,Medio
+159960.0,3.9,0,Gatos,Amazon,Medio
+75200.0,4.5,0,Perros,Amazon,Medio
+137680.0,4.5,0,Gatos,Amazon,Medio
+199960.0,4.7,0,Gatos,Amazon,Medio
+54360.0,4.3,0,Gatos,Amazon,Medio
+75200.0,4.5,0,Perros,Amazon,Medio
+137680.0,4.5,0,Gatos,Amazon,Medio
+199960.0,4.7,0,Gatos,Amazon,Medio
+54360.0,4.3,0,Gatos,Amazon,Medio
+87880.0,4.4,0,Gatos,Amazon,Medio
+59960.0,4.5,0,Gatos,Amazon,Medio
+24760.0,4.6,0,Gatos,Amazon,Medio
+71960.0,4.6,0,Perros,Amazon,Medio
+34240.0,4.5,0,Perros,Amazon,Medio
+143960.0,4.6,0,Perros,Amazon,Medio
+83960.0,4.5,0,Gatos,Amazon,Medio
+119960.0,4.2,0,Perros,Amazon,Medio
+71960.0,4.4,0,Perros,Amazon,Medio
+239960.0,4.4,0,Gatos,Amazon,Medio
+39920.0,4.6,0,Perros,Amazon,Medio
+37960.0,3.2,0,Gatos,Amazon,Medio
+79960.0,3.8,0,Perros,Amazon,Medio
+63960.0,4.1,0,Perros,Amazon,Medio
+67960.0,4.4,0,Gatos,Amazon,Medio
+91960.0,4.5,0,Gatos,Amazon,Medio
+155960.0,4.5,0,Perros,Amazon,Medio
+147960.0,4.6,0,Gatos,Amazon,Medio
+28760.0,3.9,0,Perros,Amazon,Medio
+189960.0,4.8,0,Correas para Mascotas,Amazon,Bajo
+84900.0,4.4,0,Aves,Mercado Libre,Alto
+73000.0,4.9,0,Aves,Mercado Libre,Medio
+96700.0,4.0,0,Aves,Mercado Libre,Medio
+65300.0,5.0,0,Aves,Mercado Libre,Medio
+69900.0,4.7,0,Aves,Mercado Libre,Medio
+53946.0,5.0,0,Aves,Mercado Libre,Medio
+61000.0,4.4,0,Aves,Mercado Libre,Medio
+65000.0,4.5,0,Aves,Mercado Libre,Medio
+6500.0,5.0,0,Aves,Mercado Libre,Bajo
+48900.0,5.0,0,Aves,Mercado Libre,Bajo
+20600.0,5.0,0,Aves,Mercado Libre,Bajo
+113340.0,4.5,0,Aves,Mercado Libre,Bajo
+35000.0,4.8,0,Caballos,Mercado Libre,Alto
+126900.0,5.0,0,Caballos,Mercado Libre,Medio
+270500.0,5.0,0,Caballos,Mercado Libre,Medio
+130000.0,5.0,0,Caballos,Mercado Libre,Medio
+29930.0,5.0,0,Caballos,Mercado Libre,Medio
+22900.0,4.4,0,Correas para Mascotas,Mercado Libre,Alto
+95000.0,4.9,0,Correas para Mascotas,Mercado Libre,Medio
+24000.0,5.0,0,Correas para Mascotas,Mercado Libre,Medio
+37000.0,4.7,0,Correas para Mascotas,Mercado Libre,Medio
+24000.0,4.5,0,Correas para Mascotas,Mercado Libre,Medio
+19900.0,4.8,0,Correas para Mascotas,Mercado Libre,Medio
+25200.0,4.1,0,Correas para Mascotas,Mercado Libre,Medio
+15900.0,4.3,0,Correas para Mascotas,Mercado Libre,Medio
+169000.0,5.0,0,Correas para Mascotas,Mercado Libre,Medio
+35900.0,2.8,0,Correas para Mascotas,Mercado Libre,Bajo
+14900.0,4.1,0,Correas para Mascotas,Mercado Libre,Bajo
+23200.0,4.8,0,Correas para Mascotas,Mercado Libre,Bajo
+29900.0,4.6,0,Correas para Mascotas,Mercado Libre,Bajo
+101462.0,4.8,0,Gatos,Mercado Libre,Alto
+76400.0,4.9,0,Gatos,Mercado Libre,Alto
+60001.0,4.6,0,Gatos,Mercado Libre,Alto
+80000.0,4.7,0,Gatos,Mercado Libre,Medio
+226000.0,4.9,0,Gatos,Mercado Libre,Alto
+199000.0,4.9,0,Gatos,Mercado Libre,Alto
+148000.0,4.9,0,Gatos,Mercado Libre,Alto
+66920.0,4.9,0,Gatos,Mercado Libre,Medio
+148900.0,4.9,0,Gatos,Mercado Libre,Medio
+132260.0,4.9,0,Gatos,Mercado Libre,Alto
+90526.0,4.8,0,Gatos,Mercado Libre,Medio
+93500.0,4.9,0,Gatos,Mercado Libre,Medio
+159806.0,4.8,0,Gatos,Mercado Libre,Medio
+277700.0,4.9,0,Gatos,Mercado Libre,Medio
+37808.0,4.6,0,Gatos,Mercado Libre,Medio
+293374.0,4.9,0,Gatos,Mercado Libre,Medio
+283900.0,4.9,0,Gatos,Mercado Libre,Medio
+125407.0,4.9,0,Gatos,Mercado Libre,Medio
+145573.0,4.9,0,Gatos,Mercado Libre,Medio
+362000.0,4.9,0,Gatos,Mercado Libre,Medio
+67000.0,4.9,0,Peces,Mercado Libre,Alto
+34900.0,4.4,0,Peces,Mercado Libre,Medio
+78124.0,5.0,0,Peces,Mercado Libre,Medio
+23124.0,4.8,0,Peces,Mercado Libre,Medio
+77874.0,5.0,0,Peces,Mercado Libre,Medio
+17200.0,4.6,0,Peces,Mercado Libre,Medio
+154999.0,4.9,0,Peces,Mercado Libre,Medio
+13900.0,4.6,0,Peces,Mercado Libre,Medio
+12900.0,4.6,0,Peces,Mercado Libre,Medio
+136900.0,4.8,0,Peces,Mercado Libre,Medio
+27475.0,4.9,0,Peces,Mercado Libre,Medio
+18624.0,4.9,0,Peces,Mercado Libre,Medio
+77695.0,4.7,0,Peces,Mercado Libre,Medio
+60874.0,4.9,0,Peces,Mercado Libre,Medio
+19883.0,4.4,0,Peces,Mercado Libre,Bajo
+42900.0,4.7,0,Peces,Mercado Libre,Bajo
+23190.0,4.8,0,Peces,Mercado Libre,Bajo
+43800.0,4.5,0,Peces,Mercado Libre,Bajo
+38989.0,4.9,0,Peces,Mercado Libre,Bajo
+59900.0,4.6,0,Peces,Mercado Libre,Bajo
+25200.0,4.9,0,Perros,Mercado Libre,Alto
+91112.0,4.9,0,Perros,Mercado Libre,Alto
+76200.0,4.9,0,Perros,Mercado Libre,Alto
+148000.0,4.9,0,Perros,Mercado Libre,Alto
+183500.0,4.9,0,Perros,Mercado Libre,Alto
+33330.0,4.9,0,Perros,Mercado Libre,Medio
+154000.0,4.9,0,Perros,Mercado Libre,Alto
+132260.0,4.9,0,Perros,Mercado Libre,Alto
+156900.0,4.9,0,Perros,Mercado Libre,Medio
+159806.0,4.8,0,Perros,Mercado Libre,Medio
+122236.0,4.9,0,Perros,Mercado Libre,Medio
+299000.0,4.8,0,Perros,Mercado Libre,Medio
+62182.0,4.9,0,Perros,Mercado Libre,Medio
+293374.0,4.9,0,Perros,Mercado Libre,Medio
+211765.0,4.9,0,Perros,Mercado Libre,Medio
+125407.0,4.9,0,Perros,Mercado Libre,Medio
+145573.0,4.9,0,Perros,Mercado Libre,Medio
+162369.0,4.9,0,Perros,Mercado Libre,Medio
+13600.0,4.9,0,Perros,Mercado Libre,Medio
+160370.0,4.9,0,Perros,Mercado Libre,Medio
+78887.0,4.7,0,Reptiles y Anfibios,Mercado Libre,Alto
+17966.0,4.0,0,Reptiles y Anfibios,Mercado Libre,Bajo
+6200.0,5.0,0,Roedores,Mercado Libre,Alto
+8300.0,4.9,0,Roedores,Mercado Libre,Medio
+52500.0,4.8,0,Roedores,Mercado Libre,Medio
+31900.0,4.8,0,Roedores,Mercado Libre,Medio
+59999.0,4.7,0,Roedores,Mercado Libre,Medio
+44220.0,4.9,0,Roedores,Mercado Libre,Medio
+7216.0,5.0,0,Roedores,Mercado Libre,Medio
+98000.0,4.7,0,Roedores,Mercado Libre,Medio
+113000.0,4.9,0,Roedores,Mercado Libre,Medio
+22200.0,4.0,0,Roedores,Mercado Libre,Bajo
+157990.0,5.0,0,Roedores,Mercado Libre,Bajo
+18554.0,4.2,0,Roedores,Mercado Libre,Bajo
+24850.0,5.0,0,Roedores,Mercado Libre,Bajo

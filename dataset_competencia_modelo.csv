@@ -1,0 +1,330 @@
+price_level,rating_level,discount,category,marketplace,sold_level
+Bajo,Medio,36.0,Perros,AliExpress,Medio
+Bajo,Medio,8.0,Perros,AliExpress,Medio
+Bajo,Medio,25.0,Peces,AliExpress,Bajo
+Alto,Medio,31.0,Peces,AliExpress,Medio
+Bajo,Medio,64.0,Peces,AliExpress,Medio
+Medio,Alto,59.0,Peces,AliExpress,Medio
+Bajo,Medio,63.0,Perros,AliExpress,Medio
+Bajo,Alto,60.0,Perros,AliExpress,Medio
+Bajo,Medio,64.0,Perros,AliExpress,Bajo
+Medio,Alto,59.0,Peces,AliExpress,Bajo
+Bajo,Medio,30.0,Perros,AliExpress,Medio
+Medio,Alto,59.0,Perros,AliExpress,Bajo
+Bajo,Bajo,64.0,Gatos,AliExpress,Medio
+Medio,Medio,59.0,Peces,AliExpress,Bajo
+Medio,Medio,60.0,Perros,AliExpress,Bajo
+Medio,Bajo,60.0,Perros,AliExpress,Medio
+Medio,Bajo,61.0,Peces,AliExpress,Medio
+Bajo,Bajo,58.0,Perros,AliExpress,Bajo
+Bajo,Alto,51.0,Gatos,AliExpress,Medio
+Bajo,Medio,62.0,Perros,AliExpress,Medio
+Medio,Medio,61.0,Peces,AliExpress,Bajo
+Medio,Medio,60.0,Perros,AliExpress,Bajo
+Alto,Bajo,58.0,Peces,AliExpress,Bajo
+Bajo,Medio,59.0,Perros,AliExpress,Medio
+Medio,Bajo,60.0,Jaulas para Mascotas,AliExpress,Medio
+Bajo,Alto,63.0,Perros,AliExpress,Medio
+Medio,Bajo,61.0,Gatos,AliExpress,Bajo
+Bajo,Medio,31.0,Perros,AliExpress,Bajo
+Medio,Bajo,58.0,Perros,AliExpress,Medio
+Bajo,Medio,8.0,Perros,AliExpress,Medio
+Alto,Medio,31.0,Peces,AliExpress,Medio
+Bajo,Medio,64.0,Peces,AliExpress,Medio
+Medio,Alto,59.0,Peces,AliExpress,Medio
+Bajo,Medio,63.0,Perros,AliExpress,Medio
+Bajo,Alto,60.0,Perros,AliExpress,Medio
+Medio,Alto,59.0,Peces,AliExpress,Bajo
+Medio,Alto,59.0,Perros,AliExpress,Bajo
+Bajo,Bajo,64.0,Gatos,AliExpress,Medio
+Medio,Medio,59.0,Peces,AliExpress,Bajo
+Medio,Medio,60.0,Perros,AliExpress,Bajo
+Medio,Bajo,60.0,Perros,AliExpress,Medio
+Medio,Bajo,61.0,Peces,AliExpress,Medio
+Bajo,Bajo,58.0,Perros,AliExpress,Bajo
+Bajo,Alto,51.0,Gatos,AliExpress,Medio
+Bajo,Medio,62.0,Perros,AliExpress,Medio
+Medio,Medio,61.0,Peces,AliExpress,Bajo
+Medio,Medio,60.0,Perros,AliExpress,Bajo
+Alto,Bajo,58.0,Peces,AliExpress,Bajo
+Medio,Bajo,60.0,Jaulas para Mascotas,AliExpress,Medio
+Bajo,Alto,63.0,Perros,AliExpress,Medio
+Medio,Bajo,61.0,Gatos,AliExpress,Bajo
+Medio,Bajo,58.0,Perros,AliExpress,Medio
+Bajo,Medio,47.0,Perros,AliExpress,Medio
+Medio,Medio,57.0,Gatos,AliExpress,Medio
+Bajo,Bajo,62.0,Perros,AliExpress,Bajo
+Bajo,Alto,60.0,Perros,AliExpress,Bajo
+Medio,Medio,61.0,Perros,AliExpress,Medio
+Bajo,Alto,63.0,Perros,AliExpress,Medio
+Bajo,Medio,64.0,Perros,AliExpress,Medio
+Medio,Bajo,60.0,Aves,AliExpress,Bajo
+Bajo,Medio,64.0,Perros,AliExpress,Medio
+Bajo,Alto,63.0,Perros,AliExpress,Bajo
+Bajo,Medio,62.0,Perros,AliExpress,Bajo
+Bajo,Bajo,64.0,Perros,AliExpress,Medio
+Bajo,Alto,55.0,Perros,AliExpress,Bajo
+Bajo,Medio,40.0,Perros,AliExpress,Medio
+Medio,Alto,0.0,Gatos,AliExpress,Bajo
+Bajo,Medio,75.0,Perros,AliExpress,Medio
+Bajo,Alto,43.0,Perros,AliExpress,Bajo
+Bajo,Alto,50.0,Perros,AliExpress,Bajo
+Medio,Bajo,58.0,Gatos,AliExpress,Medio
+Medio,Medio,60.0,Perros,AliExpress,Medio
+Alto,Bajo,0.0,Perros,AliExpress,Medio
+Bajo,Alto,64.0,Gatos,AliExpress,Bajo
+Bajo,Alto,8.0,Perros,AliExpress,Bajo
+Bajo,Medio,14.0,Perros,AliExpress,Bajo
+Bajo,Alto,49.0,Perros,AliExpress,Bajo
+Bajo,Medio,64.0,Peces,AliExpress,Medio
+Bajo,Medio,62.0,Gatos,AliExpress,Medio
+Bajo,Medio,45.0,Perros,AliExpress,Medio
+Bajo,Medio,65.0,Gatos,AliExpress,Alto
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Alto
+Alto,Bajo,0.0,Gatos,Amazon,Alto
+Medio,Medio,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Gatos,Amazon,Alto
+Alto,Bajo,0.0,Gatos,Amazon,Alto
+Medio,Medio,0.0,Gatos,Amazon,Alto
+Medio,Medio,0.0,Perros,Amazon,Alto
+Alto,Medio,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Perros,Amazon,Bajo
+Medio,Medio,0.0,Perros,Amazon,Bajo
+Alto,Medio,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Correas para Mascotas,Amazon,Alto
+Alto,Medio,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Gatos,Amazon,Bajo
+Medio,Medio,0.0,Perros,Amazon,Alto
+Alto,Medio,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Perros,Amazon,Alto
+Alto,Medio,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Alto
+Alto,Alto,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Perros,Amazon,Alto
+Medio,Alto,0.0,Perros,Amazon,Bajo
+Alto,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Alto
+Medio,Bajo,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Perros,Amazon,Alto
+Alto,Medio,0.0,Perros,Amazon,Alto
+Bajo,Bajo,0.0,Perros,Amazon,Alto
+Medio,Bajo,0.0,Gatos,Amazon,Alto
+Alto,Alto,0.0,Perros,Amazon,Medio
+Bajo,Medio,0.0,Gatos,Amazon,Medio
+Alto,Bajo,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Alto,Bajo,0.0,Perros,Amazon,Alto
+Medio,Alto,0.0,Perros,Amazon,Bajo
+Alto,Medio,0.0,Perros,Amazon,Medio
+Alto,Bajo,0.0,Gatos,Amazon,Medio
+Alto,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Alto,Medio,0.0,Perros,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Alto,Medio,0.0,Perros,Amazon,Medio
+Alto,Medio,0.0,Correas para Mascotas,Amazon,Bajo
+Alto,Medio,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Alto,Bajo,0.0,Gatos,Amazon,Medio
+Alto,Medio,0.0,Correas para Mascotas,Amazon,Medio
+Bajo,Bajo,0.0,Perros,Amazon,Medio
+Alto,Medio,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Bajo
+Medio,Medio,0.0,Perros,Amazon,Medio
+Alto,Alto,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Otros,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Bajo
+Alto,Medio,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Alto,0.0,Gatos,Amazon,Bajo
+Medio,Medio,0.0,Perros,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Alto,Bajo,0.0,Perros,Amazon,Medio
+Alto,Bajo,0.0,Gatos,Amazon,Medio
+Alto,Bajo,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Alto,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Aves,Amazon,Medio
+Alto,Bajo,0.0,Perros,Amazon,Medio
+Bajo,Medio,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Perros,Amazon,Medio
+Alto,Medio,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Alto
+Bajo,Bajo,0.0,Reptiles y Anfibios,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Alto,Bajo,0.0,Perros,Amazon,Alto
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Alto,0.0,Perros,Amazon,Bajo
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Alto,Medio,0.0,Perros,Amazon,Medio
+Alto,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Alto
+Medio,Medio,0.0,Perros,Amazon,Medio
+Alto,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Alto,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Alto,Medio,0.0,Gatos,Amazon,Medio
+Alto,Medio,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Alto,Medio,0.0,Gatos,Amazon,Medio
+Alto,Medio,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Bajo,Medio,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Alto,Medio,0.0,Perros,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Alto,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Perros,Amazon,Medio
+Medio,Bajo,0.0,Gatos,Amazon,Medio
+Medio,Medio,0.0,Gatos,Amazon,Medio
+Alto,Medio,0.0,Perros,Amazon,Medio
+Alto,Medio,0.0,Gatos,Amazon,Medio
+Bajo,Bajo,0.0,Perros,Amazon,Medio
+Alto,Medio,0.0,Correas para Mascotas,Amazon,Bajo
+Medio,Bajo,0.0,Aves,Mercado Libre,Alto
+Medio,Alto,0.0,Aves,Mercado Libre,Medio
+Medio,Bajo,0.0,Aves,Mercado Libre,Medio
+Medio,Alto,0.0,Aves,Mercado Libre,Medio
+Medio,Medio,0.0,Aves,Mercado Libre,Medio
+Medio,Alto,0.0,Aves,Mercado Libre,Medio
+Medio,Bajo,0.0,Aves,Mercado Libre,Medio
+Medio,Medio,0.0,Aves,Mercado Libre,Medio
+Bajo,Alto,0.0,Aves,Mercado Libre,Bajo
+Medio,Alto,0.0,Aves,Mercado Libre,Bajo
+Bajo,Alto,0.0,Aves,Mercado Libre,Bajo
+Medio,Medio,0.0,Aves,Mercado Libre,Bajo
+Medio,Medio,0.0,Caballos,Mercado Libre,Alto
+Medio,Alto,0.0,Caballos,Mercado Libre,Medio
+Alto,Alto,0.0,Caballos,Mercado Libre,Medio
+Medio,Alto,0.0,Caballos,Mercado Libre,Medio
+Bajo,Alto,0.0,Caballos,Mercado Libre,Medio
+Bajo,Bajo,0.0,Correas para Mascotas,Mercado Libre,Alto
+Medio,Alto,0.0,Correas para Mascotas,Mercado Libre,Medio
+Bajo,Alto,0.0,Correas para Mascotas,Mercado Libre,Medio
+Medio,Medio,0.0,Correas para Mascotas,Mercado Libre,Medio
+Bajo,Medio,0.0,Correas para Mascotas,Mercado Libre,Medio
+Bajo,Medio,0.0,Correas para Mascotas,Mercado Libre,Medio
+Bajo,Bajo,0.0,Correas para Mascotas,Mercado Libre,Medio
+Bajo,Bajo,0.0,Correas para Mascotas,Mercado Libre,Medio
+Alto,Alto,0.0,Correas para Mascotas,Mercado Libre,Medio
+Medio,Bajo,0.0,Correas para Mascotas,Mercado Libre,Bajo
+Bajo,Bajo,0.0,Correas para Mascotas,Mercado Libre,Bajo
+Bajo,Medio,0.0,Correas para Mascotas,Mercado Libre,Bajo
+Bajo,Medio,0.0,Correas para Mascotas,Mercado Libre,Bajo
+Medio,Medio,0.0,Gatos,Mercado Libre,Alto
+Medio,Alto,0.0,Gatos,Mercado Libre,Alto
+Medio,Medio,0.0,Gatos,Mercado Libre,Alto
+Medio,Medio,0.0,Gatos,Mercado Libre,Medio
+Alto,Alto,0.0,Gatos,Mercado Libre,Alto
+Alto,Alto,0.0,Gatos,Mercado Libre,Alto
+Alto,Alto,0.0,Gatos,Mercado Libre,Alto
+Medio,Alto,0.0,Gatos,Mercado Libre,Medio
+Alto,Alto,0.0,Gatos,Mercado Libre,Medio
+Alto,Alto,0.0,Gatos,Mercado Libre,Alto
+Medio,Medio,0.0,Gatos,Mercado Libre,Medio
+Medio,Alto,0.0,Gatos,Mercado Libre,Medio
+Alto,Medio,0.0,Gatos,Mercado Libre,Medio
+Alto,Alto,0.0,Gatos,Mercado Libre,Medio
+Medio,Medio,0.0,Gatos,Mercado Libre,Medio
+Alto,Alto,0.0,Gatos,Mercado Libre,Medio
+Alto,Alto,0.0,Gatos,Mercado Libre,Medio
+Medio,Alto,0.0,Gatos,Mercado Libre,Medio
+Alto,Alto,0.0,Gatos,Mercado Libre,Medio
+Alto,Alto,0.0,Gatos,Mercado Libre,Medio
+Medio,Alto,0.0,Peces,Mercado Libre,Alto
+Medio,Bajo,0.0,Peces,Mercado Libre,Medio
+Medio,Alto,0.0,Peces,Mercado Libre,Medio
+Bajo,Medio,0.0,Peces,Mercado Libre,Medio
+Medio,Alto,0.0,Peces,Mercado Libre,Medio
+Bajo,Medio,0.0,Peces,Mercado Libre,Medio
+Alto,Alto,0.0,Peces,Mercado Libre,Medio
+Bajo,Medio,0.0,Peces,Mercado Libre,Medio
+Bajo,Medio,0.0,Peces,Mercado Libre,Medio
+Alto,Medio,0.0,Peces,Mercado Libre,Medio
+Bajo,Alto,0.0,Peces,Mercado Libre,Medio
+Bajo,Alto,0.0,Peces,Mercado Libre,Medio
+Medio,Medio,0.0,Peces,Mercado Libre,Medio
+Medio,Alto,0.0,Peces,Mercado Libre,Medio
+Bajo,Bajo,0.0,Peces,Mercado Libre,Bajo
+Medio,Medio,0.0,Peces,Mercado Libre,Bajo
+Bajo,Medio,0.0,Peces,Mercado Libre,Bajo
+Medio,Medio,0.0,Peces,Mercado Libre,Bajo
+Medio,Alto,0.0,Peces,Mercado Libre,Bajo
+Medio,Medio,0.0,Peces,Mercado Libre,Bajo
+Bajo,Alto,0.0,Perros,Mercado Libre,Alto
+Medio,Alto,0.0,Perros,Mercado Libre,Alto
+Medio,Alto,0.0,Perros,Mercado Libre,Alto
+Alto,Alto,0.0,Perros,Mercado Libre,Alto
+Alto,Alto,0.0,Perros,Mercado Libre,Alto
+Medio,Alto,0.0,Perros,Mercado Libre,Medio
+Alto,Alto,0.0,Perros,Mercado Libre,Alto
+Alto,Alto,0.0,Perros,Mercado Libre,Alto
+Alto,Alto,0.0,Perros,Mercado Libre,Medio
+Alto,Medio,0.0,Perros,Mercado Libre,Medio
+Medio,Alto,0.0,Perros,Mercado Libre,Medio
+Alto,Medio,0.0,Perros,Mercado Libre,Medio
+Medio,Alto,0.0,Perros,Mercado Libre,Medio
+Alto,Alto,0.0,Perros,Mercado Libre,Medio
+Alto,Alto,0.0,Perros,Mercado Libre,Medio
+Medio,Alto,0.0,Perros,Mercado Libre,Medio
+Alto,Alto,0.0,Perros,Mercado Libre,Medio
+Alto,Alto,0.0,Perros,Mercado Libre,Medio
+Bajo,Alto,0.0,Perros,Mercado Libre,Medio
+Alto,Alto,0.0,Perros,Mercado Libre,Medio
+Medio,Medio,0.0,Reptiles y Anfibios,Mercado Libre,Alto
+Bajo,Bajo,0.0,Reptiles y Anfibios,Mercado Libre,Bajo
+Bajo,Alto,0.0,Roedores,Mercado Libre,Alto
+Bajo,Alto,0.0,Roedores,Mercado Libre,Medio
+Medio,Medio,0.0,Roedores,Mercado Libre,Medio
+Bajo,Medio,0.0,Roedores,Mercado Libre,Medio
+Medio,Medio,0.0,Roedores,Mercado Libre,Medio
+Medio,Alto,0.0,Roedores,Mercado Libre,Medio
+Bajo,Alto,0.0,Roedores,Mercado Libre,Medio
+Medio,Medio,0.0,Roedores,Mercado Libre,Medio
+Medio,Alto,0.0,Roedores,Mercado Libre,Medio
+Bajo,Bajo,0.0,Roedores,Mercado Libre,Bajo
+Alto,Alto,0.0,Roedores,Mercado Libre,Bajo
+Bajo,Bajo,0.0,Roedores,Mercado Libre,Bajo
+Bajo,Alto,0.0,Roedores,Mercado Libre,Bajo
