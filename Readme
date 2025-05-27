@@ -1,0 +1,10 @@
+Para ejecutar desde consola:
+
+-- Aliexpress
+python Scraping/aliexpress.py "https://www.aliexpress.com/p/calp-plus/index.html?spm=a2g0o.tm1000016012.allcategoriespc.19.74cd38f28ofDto&categoryTab=pet_supplies" --output aliexpress_productos.csv
+
+-- Amazon
+python Scraping/amazon.py "https://www.amazon.com/s?i=pets-intl-ship&bbn=16225013011&rh=n%3A2619533011%2Cn%3A16225013011&s=exact-aware-popularity-rank&language=es" --pages 6 --output amazon_productos.csv
+
+-- Mercado Libre
+python Scraping/mercado_libre.py "https://www.mercadolibre.com.co/mas-vendidos/MCO1071" --pages 20 --output mercado_libre_productos.csv
