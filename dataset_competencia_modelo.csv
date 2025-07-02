@@ -1,4 +1,4 @@
-price_level,rating_level,discount,category,marketplace,sold_level
+﻿price_level,rating_level,discount,category,marketplace,sold_level
 Bajo,Medio,36.0,Perros,AliExpress,Medio
 Bajo,Medio,8.0,Perros,AliExpress,Medio
 Bajo,Medio,25.0,Peces,AliExpress,Bajo
