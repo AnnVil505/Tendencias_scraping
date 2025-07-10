@@ -87,8 +87,8 @@ with col3:
 
 st.header("🛍️ Análisis de Ventas en Marketplaces")
 
-# --- Ventas por Categoría Principal (Perros vs Gatos vs General) ---
-st.subheader("Ventas por Categoría Principal")
+# --- Ventas por Categoría Principal (Gráfico de Torta) ---
+st.subheader("Distribución de Ventas por Categoría Principal")
 query_sales_by_category = """
 SELECT dc.nombre_categoria, SUM(fv.precio) AS total_ventas
 FROM fact_ventas fv
@@ -100,13 +100,12 @@ ORDER BY total_ventas DESC;
 df_sales_by_category = load_data(query_sales_by_category)
 
 if not df_sales_by_category.empty:
-    fig_sales_category = px.bar(
+    fig_sales_category = px.pie(
         df_sales_by_category,
-        x="nombre_categoria",
-        y="total_ventas",
-        title="Ventas Totales por Categoría Principal",
-        labels={"nombre_categoria": "Categoría", "total_ventas": "Ventas ($)"},
-        color="nombre_categoria"
+        names='nombre_categoria',
+        values='total_ventas',
+        title='Distribución de Ventas por Categoría Principal',
+        hole=0.3 # Para un gráfico de donut
     )
     st.plotly_chart(fig_sales_category, use_container_width=True)
 
@@ -115,7 +114,7 @@ if not df_sales_by_category.empty:
 else:
     st.info("No hay datos de ventas por categoría para mostrar.")
 
-# --- Ventas por Subcategoría y Nivel de Ventas ---
+# --- Ventas por Subcategoría y Nivel de Ventas (Gráfico de Barras) ---
 st.subheader("Ventas por Subcategoría y Nivel de Ventas")
 
 # Obtener los niveles de ventas únicos para el filtro
@@ -162,6 +161,53 @@ if not df_sales_by_subcategory.empty:
 else:
     st.info("No hay datos de ventas por subcategoría para mostrar con el filtro seleccionado.")
 
+# --- Histograma de Distribución de Ratings ---
+st.subheader("Distribución de Calificaciones de Productos")
+query_rating_distribution = """
+SELECT rating FROM fact_ventas WHERE rating IS NOT NULL;
+"""
+df_rating_distribution = load_data(query_rating_distribution)
+
+if not df_rating_distribution.empty:
+    fig_rating_distribution = px.histogram(
+        df_rating_distribution,
+        x='rating',
+        title='Distribución de Calificaciones (Ratings) de Productos',
+        nbins=10, # Puedes ajustar el número de bins (barras) del histograma
+        labels={'rating': 'Calificación del Producto'}
+    )
+    st.plotly_chart(fig_rating_distribution, use_container_width=True)
+
+    with st.expander("Ver Datos Crudos de Distribución de Ratings"):
+        st.dataframe(df_rating_distribution, use_container_width=True)
+else:
+    st.info("No hay datos de calificación para mostrar su distribución.")
+
+# --- Comparación de Ratings por Categoría Principal (Box Plot) ---
+st.subheader("Comparación de Calificaciones por Categoría Principal")
+query_ratings_by_category = """
+SELECT dc.nombre_categoria, fv.rating
+FROM fact_ventas fv
+JOIN dim_subcategoria dsc ON fv.id_subcategoria = dsc.id_subcategoria
+JOIN dim_categoria dc ON dsc.id_categoria = dc.id_categoria
+WHERE fv.rating IS NOT NULL;
+"""
+df_ratings_by_category = load_data(query_ratings_by_category)
+
+if not df_ratings_by_category.empty:
+    fig_rating_by_category = px.box(
+        df_ratings_by_category,
+        x='nombre_categoria',
+        y='rating',
+        title='Distribución de Calificaciones por Categoría Principal',
+        labels={'nombre_categoria': 'Categoría', 'rating': 'Calificación del Producto'}
+    )
+    st.plotly_chart(fig_rating_by_category, use_container_width=True)
+
+    with st.expander("Ver Datos Crudos de Ratings por Categoría"):
+        st.dataframe(df_ratings_by_category, use_container_width=True)
+else:
+    st.info("No hay datos de calificación para mostrar por categoría.")
 
 
 ## ❓ Preguntas de Negocio Clave
@@ -265,8 +311,9 @@ df_low_engagement_ig = load_data(query_low_engagement_ig)
 if not df_low_engagement_ig.empty:
     col_ig1, col_ig2 = st.columns(2)
     with col_ig1:
+        # Gráfico de Torta para Likes de bajo rendimiento por subcategoría
         fig_likes = px.pie(
-            df_low_engagement_ig.groupby('nombre_subcategoria')['likes'].sum().reset_index(), # Agrupar para el pie chart
+            df_low_engagement_ig.groupby('nombre_subcategoria')['likes'].sum().reset_index(),
             values="likes",
             names="nombre_subcategoria",
             title="Likes por Subcategoría (Bajo Rendimiento)",
@@ -274,8 +321,9 @@ if not df_low_engagement_ig.empty:
         )
         st.plotly_chart(fig_likes, use_container_width=True)
     with col_ig2:
+        # Gráfico de Barras para Comentarios de bajo rendimiento por subcategoría
         fig_comments = px.bar(
-            df_low_engagement_ig.groupby('nombre_subcategoria')['comentarios'].sum().reset_index(), # Agrupar para el bar chart
+            df_low_engagement_ig.groupby('nombre_subcategoria')['comentarios'].sum().reset_index(),
             x="nombre_subcategoria",
             y="comentarios",
             title="Comentarios por Subcategoría (Bajo Rendimiento)",
